@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1522958079 source:c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+	"validaciones.h"
+
+1522965978 source:c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 1\operaciones.c
+	"Operaciones.h"
+
+1522965978 c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 1\operaciones.h
+
+1522967040 c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 1\validaciones.h
+
+1522958019 source:c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 1\validaciones.c
+	"validaciones.h"
+
