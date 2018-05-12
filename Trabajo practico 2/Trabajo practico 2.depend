@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1526091964 source:c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 2\personas.c
+	"personas.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1524780979 source:c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"personas.h"
+
+1526092928 c:\users\koff\desktop\facu\2018\ejercicios\recuperatorio\trabajo practico 2\personas.h
+
