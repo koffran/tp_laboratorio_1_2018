@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1508637554 source:c:\users\frane\desktop\programacion\nueva carpeta\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508697687 c:\users\frane\desktop\programacion\nueva carpeta\funciones.h
+
+1508637554 source:c:\users\frane\desktop\programacion\nueva carpeta\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"archivos.h"
+
+1508637585 source:c:\users\frane\desktop\programacion\nueva carpeta\archivos.c
+	"archivos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1508637554 c:\users\frane\desktop\programacion\nueva carpeta\archivos.h
+	"funciones.h"
+
+1523414107 source:c:\users\koff\desktop\facu\2018\tp3\tp_laboratorio_1_2017-master\trabajo practico 3\archivos.c
+	"archivos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1523414107 c:\users\koff\desktop\facu\2018\tp3\tp_laboratorio_1_2017-master\trabajo practico 3\archivos.h
+	"funciones.h"
+
+1527786177 c:\users\koff\desktop\facu\2018\tp3\tp_laboratorio_1_2017-master\trabajo practico 3\funciones.h
+
+1527786254 source:c:\users\koff\desktop\facu\2018\tp3\tp_laboratorio_1_2017-master\trabajo practico 3\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1527786177 source:c:\users\koff\desktop\facu\2018\tp3\tp_laboratorio_1_2017-master\trabajo practico 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"archivos.h"
+
